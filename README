@@ -1,8 +1,9 @@
 So...
 
-I was thinking. Us web designers / developers use a few basic things a lot: Password Generator, Colour Picker, 
-Ruler etc.Wouldn't it be REALLY handy if we had a little bookmarklet that we could launch on sites and 
-carry out these things?
+I don't know about you guys but I use a few tools a lot: Password Generator, Colour Picker, Ruler etc.
+I was thinking, wouldn't it be REALLY handy if we had a little bookmarklet that we could launch on sites and 
+carry out these things? Sure, there are extensions / plugins for different browsers but there's nothing that
+I've found that actually brings these things together, especially cross browser.
 
 Being a bookmarklet we can run it on different browsers, Firefox, Chrome, Opera, Safari and even IE (9 and later).
 
